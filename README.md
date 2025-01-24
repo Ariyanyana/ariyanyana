@@ -1,5 +1,7 @@
 # Hi there, I'm Ariya, the Brazilian Monk! 
 
+![Profile Banner](https://link-to-your-image.com/banner.jpg)
+
 Welcome to my GitHub profile! I'm a Buddhist monk from Brazil, dedicated to spreading mindfulness, wisdom, and compassion in the modern world. Here's a little about me:
 
 - 🌱 I explore philosophy, meditation, and Buddhist teachings.
