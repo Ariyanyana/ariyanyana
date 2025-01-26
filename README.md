@@ -1,29 +1,12 @@
-# Hi there, I'm Ariya, the Brazilian Monk! 
+# 💫 About Me:
+2003-2015: flamenco dancer<br>2015-2022: meditation (MM)<br>2016-present: Theravāda Buddhist monk<br>2022-present: student at Intl. Inst. of Theravāda (SL)
 
-![Profile Banner](https://link-to-your-image.com/banner.jpg)
 
-Welcome to my GitHub profile! I'm a Buddhist monk from Brazil, dedicated to spreading mindfulness, wisdom, and compassion in the modern world. Here's a little about me:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anb_sdc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnB_Bz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anb_sdc) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ariyanyana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ariyanyana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariyanyana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I explore philosophy, meditation, and Buddhist teachings.
-- 🛠️ I work on projects related to **mindfulness apps**, **spiritual teachings**, and **community tools**.
-- ✍️ Sharing my insights and preserving ancient wisdom.
-
----
-
-## 📌 Connect With Me
-- 🌐 **Website**: [YourWebsite.com](https://yourwebsite.com)
-- 📚 **Archive**: [My Collection on Archive.org](https://archive.org/details/your-archive)
-- 💬 **Social Media**:
-  - [X (formerly Twitter)](https://x.com/yourprofile)
-  - [Instagram](https://instagram.com/yourprofile)
-  - [Facebook](https://facebook.com/yourprofile)
-
----
-
-## 🌟 Featured Projects
-- **[Meditation Timer App](https://github.com/example)**: A simple timer for guided meditation sessions.
-- **[Dhamma Quotes API](https://github.com/example)**: A RESTful API for inspirational Buddhist quotes.
-
----
-
-## may you be well, happy, and peaceful.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
