@@ -1,6 +1,5 @@
-LPuse# Ariyanyana, the Brazilian Monk
-![Buddha Statue](https://en.wikipedia.org/wiki/File:Tapa_Shotor_seated_Buddha_(Niche_V1).jpg)
-Welcome to my website! I am Ariya, a Brazilian monk dedicated to the Dhamma. My journey is rooted in Buddhist teachings, and I aim to share insights, reflections, and resources to help others cultivate mindfulness, compassion, and wisdom.
+Ariyanyana, the Brazilian Monk
+
 
 ## Explore the Dhamma
 
@@ -9,6 +8,10 @@ Here, you'll find valuable resources to support your practice and deepen your un
 ### Dhamma Summaries
 Dive into concise and accessible summaries of key teachings.  
 [Read Dhamma Summaries](./dhamma-summaries)
+
+### IIT - Nissayamuttaka Course - Notes & Flashcards
+My personal notes and flashcards based on the material covered by the Nissayamuttaka Course in IIT (SL)
+[Go to notes & flashcards](./IIT-NmC)
 
 ### YouTube Teachings
 Watch video teachings and guided meditations on my YouTube channel. Here's one of the latest videos:  
