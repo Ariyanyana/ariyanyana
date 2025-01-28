@@ -1,20 +1,15 @@
-Ariyanyana, the Brazilian Monk
+Hi! I'm a former flamenco dancer made monk, and this website has a good share of my projects, studies, interests, readings, writings, talks, and what not. 
 
+There will be a good amount of Buddhism, meditation, chantings, videos, pics, and maybe some books as well. Feel free to make use of any content and get in touch with me through the contact section or social media links. 
 
-## Explore the Dhamma
+##summaries and flashcards
 
-Here, you'll find valuable resources to support your practice and deepen your understanding of the Buddha's teachings.
-
-### Dhamma Summaries
-Dive into concise and accessible summaries of key teachings.  
-[Read Dhamma Summaries](./dhamma-summaries)
-
-### IIT - Nissayamuttaka Course - Notes & Flashcards
+### IIT - Nissayamuttaka Course
 My personal notes and flashcards based on the material covered by the Nissayamuttaka Course in IIT (SL)
-[Go to notes & flashcards](./IIT-NmC)
+[Go to notes & flashcards](./IIT-NmC.md)
 
-### YouTube Teachings
-Watch video teachings and guided meditations on my YouTube channel. Here's one of the latest videos:  
+### YouTube Channel
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8iCWRuZCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Visit My YouTube Channel](https://www.youtube.com/@YourChannelHere)
